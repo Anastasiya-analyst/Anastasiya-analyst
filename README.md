@@ -1,16 +1,46 @@
-## Hi there 👋
+Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Меня зовут Анастасия!
+===================================================================================================================================
 
-<!--
-**Anastasiya-analyst/Anastasiya-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Аналитик данных
+------------
+  <a href="https://t.me/Anastasiya_Osina" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">  Обо мне</h3>
+
+###
+
+\-👩‍💻Трансформирую массивы данных в наглядные дашборды и отчеты
+
+\-💼Обеспечиваю прозрачную аналитику ключевых бизнес-показателей
+
+ 🌍  Я из Самары
+
+ 💬   Вне работы применяю навыки анализа данных для оптимизации повседневных задач — от планирования бюджета до построения маршрутов. Мой девиз: «Данные не лгут!»
+
+###
+
+<h3 align="left">🛠 Технологии:</h3>
+
+###
+
+
+<p align="left">
+ <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="48" height="48" /></a>
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="48" height="48" /></a>
+ <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="48" height="48" /></a>
+ <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="48" height="48" /></a>
+ <a href="https://www.sql.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQL-000000?logo=sql&logoColor=white" alt="SQL" title="SQL" width="72" height="72" /></a>
+ <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=microsoft-power-bi&logoColor=white" alt="Power BI" title="Power BI" width="80" height="80" /></a>
+ 
+ <!-- Новые иконки -->
+ <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pandas-150D33?logo=pandas&logoColor=white" alt="Pandas" title="Pandas" width="80" height="80" /></a>
+ <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NumPy-0085A1?logo=numpy&logoColor=white" alt="NumPy" title="NumPy" width="80" height="80" /></a>
+ <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Matplotlib-324156?logo=matplotlib&logoColor=white" alt="Matplotlib" title="Matplotlib" width="80" height="80" /></a>
+ <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Seaborn-00BFFF?logo=seaborn&logoColor=white" alt="Seaborn" title="Seaborn" width="80" height="80" /></a>
+ <a href="https://en.wikipedia.org/wiki/ABC_analysis" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ABC%20Analysis-blue?logo=data-analysis&logoColor=white" alt="ABC Analysis" title="ABC Analysis" width="80" height="80" /></a>
+</p>
