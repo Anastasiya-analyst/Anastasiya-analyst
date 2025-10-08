@@ -20,7 +20,7 @@
 
 
 ### 📊 **Мои проекты**
-- [**☕ Анализ продаж кофеен**](https://github.com/Anastasiya-analyst/coffee-business-analysis/blob/main/KPI_Coffee.ipynb) - EDA, ABC-анализ, визуализация. Python, Pandas
+- [**☕ Анализ продаж кофеен**](https://github.com/Anastasiya-analyst/coffee-business-analysis/blob/main/KPI_Coffee.ipynb) - EDA, ABC-анализ, статистическое исследование взаимосвязей признаков, визуализация и бизнес-рекомендации. Python, Pandas
 
 
 ------------
